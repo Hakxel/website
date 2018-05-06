@@ -6,4 +6,4 @@ After finishing *Learn Enough Git to Be Dangerous*, you'll know enough Git to be
 
 For more information on Git, see the [official Git documentation](https://git-scm.com/).
 
--In case you are wondering, yes, I totally just zombie-copied all that text from the tutorial-
+**Text zombie-copied from the tutorial*
